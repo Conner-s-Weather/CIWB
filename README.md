@@ -4,4 +4,3 @@ Conner's Integrated Weather Button - A Button, based on your device's Lat/Lon co
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=Mr-Weatherman/CIWB)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Conner-s-Weather/CIWB)
